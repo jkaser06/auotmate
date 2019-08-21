@@ -47,7 +47,7 @@ Insert INTO
 
     VALUES(
 
-        /*GroupID*/856 /* 856 is the group ID for "Service Plans\Windows Servers\Managed 24x7" */
+        /*GroupID*/1680 /* 856 is the group ID for "Service Plans\Windows Servers\Managed 24x7" */
 
         /*SearchID*/,0
 
@@ -151,7 +151,7 @@ Insert INTO
 
     VALUES(
 
-        /*GroupID*/3 /* 3 is the group ID for "Service Plans\Windows Workstations\Managed 8x5" */
+        /*GroupID*/1680 /* 3 is the group ID for "Service Plans\Windows Workstations\Managed 8x5" */
 
         /*SearchID*/,0
 

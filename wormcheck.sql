@@ -45,7 +45,7 @@ Insert INTO
 
     ) 
 
-    VALUES(
+   /* VALUES(
 
         /*GroupID*/1680 /* 856 is the group ID for "Service Plans\Windows Servers\Managed 24x7" */
 
@@ -98,7 +98,7 @@ Output: %FIELDNAME%'
         /*ScriptTarget*/,1
 
     );
-
+*/
 
 
 
